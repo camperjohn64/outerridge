@@ -1,0 +1,438 @@
+
+                           Outer Ridge V1.0 Registered
+                           ---------------------------
+CONTENTS:
+
+0.0 LANGUAGE / SPRACHE
+0.1 REQUIREMENTS
+0.2 THE STORY SO FAR
+0.3 THE STATUS BAR
+0.4 RADAR PANELS
+0.5 REALLY COOL WEAPONS
+    - Schnot gun.
+    - Dual Cannons.
+    - Rockets.
+    - The All-Illusive Super-Schnot.
+    - Dual Super-Schnots.
+0.6 NME's (Enemy's)
+    - Schnotoids
+    - Cannonoids
+    - Mine layers
+0.7 BONUSES
+    - Powerup
+    - Double Power
+    - Cannons + Ammunition
+    - Rockets + Ammunition
+    - Super-Schnots
+    - Hyperspace
+    - WHAMO
+    - Extra Ship
+    - Superfast Weapons
+1.0 SOUND CARDS SUPPORTED
+    - Gravis UltraSound
+    - Sound Blaster
+1.1 CONTROLLERS SUPPORTED
+    - Mouse Support
+    - Joystick Control
+    - Keyboard Control
+1.2 SCREEN CAPTURE
+2.0 GAME STRATEGIES
+3.0 CONFIGURING YOUR PREFERANCES
+4.0 TROUBLESHOOTING
+5.0 CREDITS
+
+
+0.0 SPRACHE:
+
+     OUTER RIDGE koennen Sie in Deutsch oder Englisch spielen. Druecken Sie
+     waehrend des Spieles F1 um die Sprache zu wechseln.
+
+     Sie koennen  die  Sprache  auch  mit  dem  Programm SETUP.EXE aendern.
+     Waehlen Sie  dazu  LANGUAE / SPRACHE  aus  dem  Hauptmenue  des  SETUP
+     Programmes.
+
+0.0 LANGUAGE:
+
+     OUTER RIDGE  can  be  played in either English or  German.   Press  F1
+     during game play to switch the current language.
+
+     The language  can  also be selected from within SETUP.EXE by selecting
+     LANGUAGE / SPRACHE from the setup main menu.
+
+0.1 REQUIREMENTS:
+
+  - 80386+
+  - VGA video card
+  - 4MB ram
+  - Human
+
+0.2 THE STORY SO FAR:
+
+     You've been assigned to clear the  asteroid  belts  between  Mars  and
+     Saturn.  The Corporation Regulating Advanced Propulsion  (CRAP)  is in
+     need of  additional  testing  grounds  and have hired you, yes you, to
+     clear the way.  You must achieve your quota for each sector before you
+     can move on to the next.  Follow  up  crews  will  use  Capped  Rocket
+     Utilizing Detonators (CRUDs) to destroy any remaining  asteroids after
+     you have hyperspaced into the next sector.
+
+     Your ship  has been equipped to turn raw materials from asteroids into
+     useful propellants and armor.  Your on-board factory will generate all
+     kinds of weapons for you to clear  the  belt with when you collect the
+     raw materials.
+
+
+0.3 THE STATUS BAR:
+
+     From the interior of your cockpit, you will see the  status bar at the
+     bottom of the screen:
+
+     SCORE:   Your current score.  Score is obtained every time you hit
+              an asteroid, destroy an asteroid or pick up a bonus. You will
+              lose score when you destroy a bonus.
+     MISSION: Your mission percentage will tell you how many more asteroids
+              you must destroy before you can go to the next level.  In the
+              first level you will only need to destroy 10 asteroids.
+     SHIELDS: This is your ships shield status.  When you get hit without
+              any shields,  you're dead.  You can replenish your shields by
+              collecting PowerUP's (blue  bonuses) or Double Power's (green
+              bonuses).
+     CANNON : Number of Cannons you have left in your ammunition arsenal.
+     ROCKET : Number of Rockets you have left in your ammunition arsenal.
+     SUPER-S: Number  of  Super-Schnots  you have left in  your  ammunition
+              arsenal.
+
+0.4 RADAR PANELS:
+
+     In the  top  left  and right of your cockpit you have 2 radar screens.
+     The left radar shows depth vs width while the right radar screen shows
+     height vs width.
+
+     The distance an asteroid is from your ship determines the intensity of
+     the radar blip.  Dark brown radar  blips are far asteroids while light
+     brown denote near asteroids.
+
+     All bonus spheres on the radar appear at full intensity.
+
+0.5 REALLY COOL WEAPONS:
+
+     * = registered version only
+
+  - Schnot gun.
+
+     Yes it is actually called a "schnot" gun. Listen, it's green and looks
+     just like the real thing.  Hence the name.  The green  schnot  gun  is
+     the least  powerful weapon, but you can never run out of schnots.  The
+     schnot gun is great for busting lone  asteroids saving your heavy duty
+     ammunition for heavy duty applications.
+
+  - Dual Cannons.
+
+     The cannons are great for blasting smaller asteroids  into  pulp.  One
+     shot gets  'em.   Your  ship  is  equipped with two of these fantastic
+     weapons - one on each side.  The  cannons  are  slower than the schnot
+     gun, but have far more power.
+
+  * Rockets.
+
+     Oh yes, the infamous "rocket" weapon - all games should  have rockets.
+     The rockets  are  computer  controlled  and  "seek"  out  the  closest
+     asteroid for destruction.  The rocket  will  self  destruct when it is
+     nearest to the asteroid.  Once detonated, the rocket  will  apply  the
+     force of  destruction to all neighboring asteroids.  Shooting into the
+     middle of many asteroids will destroy  all  of  the  asteroids! (or at
+     least wear them down - depending on distance)  You do not even have to
+     hit the asteroid for the rocket to detonate.  It will detonate when it
+     is at  its "optimum" destruction distance.  Fortunately,  rockets  are
+     "smart", and  will  not  destroy bonus spheres. (Whew).  You will only
+     get 5 rockets per rocket-bonus, so use them sparingly.
+
+  * The All-Illusive Super-Schnot.
+
+     Simply the possibility that such  a  weapon  could  exist  caused  the
+     entire 4th regiment of NME's to dive into a wormhole.   Who would want
+     to be  covered  with  schnot,  let  alone  super-schnot?   Preliminary
+     reports suggest that the super-schnot  is  fast,  ultra  powerful, and
+     very accurate (unlike our friend the green schnot gun).
+
+  * Dual Super-Schnots.
+
+     Nothing stands in your way.
+
+
+0.6 NME's (Enemy's)
+
+     * = registered version only
+
+  - Schnotoids
+
+     The Schnotoids are spherical camouflage Space-Tanks.   Why  camouflage
+     in space?  I don't know, it just looked good in 3D Studio.  Schnotoids
+     fire bursts  of  green  schnots  and  can be easily toasted with a few
+     cannon blasts. Once you hit a Schnotoid though, it will track you down
+     until you kill it (or it kills you).
+
+  * Cannonoids
+
+     Guess what Cannonoids are?  Yes, they are those hexagonal thingys that
+     fire cannons.  Getting splatted  with  a few of its cannons can really
+     ruin your day.
+
+  * Mine layers
+
+     A special battalion of NME's have been dispatched to  lay mines.  Both
+     schnot mines  and  cannon  mines will be dropped.  Mines self-destruct
+     about 5 seconds after being dropped.   Collision  with  a  mine almost
+     always results in instant death.  When a mine layer  is near, you will
+     recognize it's distinctive beep.
+
+  Note:
+
+     Schnotoids, Cannonoids  and  Mines only collide with the player.  Yes,
+     it is actually possible for these devices to travel through asteroids!
+     (Programmers note:   When  we   had   the  mines  colliding  with  the
+     asteroids, they were blowing up all over the place,  and were rarely a
+     cause for concern to the player)
+
+
+0.7 BONUSES
+
+     There are 9 different bonuses in OUTER RIDGE:
+
+     * = registered version only
+
+     Name                     What it Does            How to recognize it
+
+  -  Powerup               10% shields                           Blue Sphere
+  -  Double Power          20% shields                          Green Sphere
+  -  Cannons + Ammunition  Extra Cannon Ammunition                Red Sphere
+  *  Rockets + Ammunition  Extra Rocket Ammunition             Yellow Rocket
+  *  Super-Schnots         Extra Super-Schnot Ammunition         Yellow/Grey
+  -  Hyperspace            Completion of level            Purple "EXIT" Sign
+  *  WHAMO                 Contents Unknown                   Colour Unknown
+  *  Extra Ship            Bonus Ship                                    Red
+  *  Superfast Weapons     All weapons fire at double speed     Lighting Rod
+
+1.0 SOUND CARDS SUPPORTED:
+
+  - Gravis UltraSound
+  - Sound Blaster
+
+     The initialization  checks the environment settings to determine which
+     type of  soundcard you have installed.   Only  Gravis  Ultrasound  and
+     Sound Blaster are supported at present.
+
+     Make sure your environment settings are set to something like these:
+
+     ULTRASND=220,1,1,7,5          - if you have a Gravis Ultrasound
+     BLASTER=A220 I5 D1 T1         - if you have a Sound Blaster
+
+     Note: Obviously you will not use these exact settings  as  your  sound
+           card may  not  be  located  at  these addresses.  These are just
+           examples.
+
+    With the Gravis UltraSound:
+
+     With 512K or more of GUS memory,  all  music  and sound effects can be
+     played.  With  only  256K  of  GUS  memory,  the  music  will  not  be
+     available.  Only sound effects are available with 256k of GUS memory.
+
+
+1.1 CONTROLLERS SUPPORTED:
+
+  - Mouse Support
+
+     Press "M"  once  in  the  game to select mouse control or select MOUSE
+     control in the options screen.   Mouse  control will only be available
+     if your mouse was detected at startup.
+
+  - Joystick Control
+
+     Pressing "J" during the game will select and configure  your joystick.
+     You can  also  select  "JOYSTICK"  from  the  options  screen  or from
+     SETUP.EXE.  At any time during game  play,  you can press "J" again to
+     re-calibrate and center you joystick.
+
+  - Keyboard Control
+
+     The keyboard is active at all times.  The keys can  be  re-mapped from
+     within SETUP.EXE
+
+
+1.2 SCREEN CAPTURE:
+
+     At any time during game play you can press F2 to capture the action to
+     a 256  colour 640x400 .PCX file.  Once dumped, the message "PCX Screen
+     Dump as OUTER00.PCX" will appear.
+
+     If you don't want the PCX message to clutter the picture for the next
+     PCX capture, you can prevent the  message  by  using  the command line
+     parameter -pcx to suppress the message.
+
+
+2.0 GAME STRATEGIES:
+
+  - Stay moving.  Most of the time you can't see what hit  you  or  what is
+    about to  hit  you.   When  you  stay  still,  you're  a  sitting duck.
+    Avoidance of death is directly related to how fast you can get away.
+
+  - You can't run out of schnots (gun  type  "1").   So  use it against the
+    asteroids whenever you can.  Save the rockets and super-schnots for the
+    NME's.
+
+  - Don't favor one type of gun.  You can run out of ammunition  quickly if
+    you favor  one specific type of weapon, so switch between the different
+    types as you get low.  This way,  when  you're  confronted with an NME,
+    you won't be stuck with your little green schnots.
+
+  - Shoot  asteroids  in bursts.  Do this to avoid destroying  any  bonuses
+    that may  come  out  of  exploding  asteroids.   When  an asteroid does
+    explode, wait to see if there are  any  bonus  spheres in it before you
+    resume shooting.
+
+  - Destroy all sizes of asteroids.  All sizes of asteroids may surrender a
+    bonus sphere, so don't just hit the big "easy" targets.   Not only will
+    you save  ammunition  by going after the small ones, but you will avoid
+    having a billion little tiny asteroids  zooming  about  space  at  high
+    velocity.  Remember, bouncing off the small asteroids  won't  hurt your
+    shields as  much as the larger ones, but if they explode when they hit,
+    they can really cause some damage.
+
+  - Use rockets on big asteroids.  The  rockets  will  affect all asteroids
+    which are near to it when it explodes.  So try this:  Shoot a rocket at
+    a big asteroid, when it explodes, fire another at the  middle  of the 3
+    or so  medium  sized  asteroids.  When they explode, destroy all of the
+    smaller asteroids with one last rocket.   The  rockets  are "smart" and
+    will not  destroy  any  bonus  spheres.  So shoot first,  then  collect
+    bonuses when all is clear.
+
+  - Use  the  mine  layers  and  NME's to your advantage.  If you can avoid
+    their fire, follow the mine layers  or  NME's  around,  let  them  blow
+    things up  and simply collect the bonuses they extract.   Although  any
+    asteroids that they destroy will not count for your score, and will not
+    advance your  standing  in  the  level.   You  must  still destroy your
+    percentage of asteroids to complete the level.
+
+
+3.0 CONFIGURING YOUR PREFERANCES:
+
+    The following keys are supported:
+
+              m  - change control to mouse     (and keyboard)
+              j  - change control to joystick  (and keyboard)
+
+              1  - schnot gun
+              2  - dual cannons
+              3  - rockets
+              4  - the all illusive super-schnot! (toggle dual super-
+                   schnot)
+           enter - rotate through guns
+
+            ctrl - thrust
+           space - fire
+         crsr up - rotate up
+       crsr down - rotate down
+       crsr left - rotate left
+      crsr right - rotate right
+
+             F1  - toggle English/German language
+             F2  - dump screen to PCX file
+             F3  - controller speed adjust down
+             F4  - controller speed adjust up
+             F6  - toggle cockpit graphics
+             F7  - toggle between inverted and normal flight controls
+             F8  - change thrust type between sliding or gripping (default
+                   is gripping)
+             F9  - sound effect volume down
+             F10 - sound effect volume up
+             F11 - music volume down
+             F12 - music volume up
+
+     pause/break - pause toggle
+     ctrl-q      - instant exit to DOS
+
+     alt-shift-p - dump screen to .PCX (also F2)
+     alt-shift-d - turn developers mode on
+     alt-shift-m - change music
+     alt-shift-g - God mode
+     alt-shift-a - all ammo/guns added
+     alt-shift-s - all asteroids full stop
+     alt-shift-b - toggle bonus blow up
+     alt-shift-e - dual super schnot
+     alt-shift-c - max bonus probability
+     alt-shift-f - superfast weapons
+     alt-shift-k - decrement shields
+     alt-shift-w - auto-pilot/demo toggle
+     alt-shift-u - level editor mode
+
+   Mouse control:
+
+     Left Button - fire
+    Right Button - thrust
+   Middle Button - change gun
+
+   Joystick control:
+
+        Button 1 - fire
+        Button 2 - thrust
+        Button 3 - change gun (4 button joystick)
+
+   Command Line Parameters:
+
+      -memory    - display actual memory used during initialization
+      -devparm   - set Developers Mode ON (cheat keys available)
+      -pcx       - pcx status suppression (won't clutter status line with
+                   PCX filename during screen capture)
+
+
+4.0 TROUBLESHOOTING:
+
+     If you have problems, first remove  all TSR's and re-boot with a clean
+     system.  OUTER  RIDGE  does  not  need  any  memory  managers  to  run
+     correctly.  Remove any memory managers such as EMM386 or QEMM.
+
+     If you   still   have   problems   running  OUTER  RIDGE,  delete  the
+     OUTRIDGE.CFG file and re-run OUTER RIDGE.  This will reset OUTER RIDGE
+     to the default configuration and write a new configuration file to the
+     disk.
+
+     OUTER RIDGE will run correctly on  stacked drives.  OUTER RIDGE should
+     not be  run under Windows or OS/2.  OUTER RIDGE  can  be  run  from  a
+     floppy.
+
+  Q: My sound card is not detected at startup.  Why?
+  A: The  initialization checks the environment settings to determine which
+     type of  soundcard you have installed.   Only  Gravis  Ultrasound  and
+     Sound Blaster are supported.
+
+     Make sure your environment settings are set to something like these:
+
+     ULTRASND=220,1,1,7,5          - if you have a Gravis Ultrasound
+     BLASTER=A220 I5 D1 T1         - if you have a Sound Blaster
+
+     Note: Obviously you will not use these exact settings  as  your  sound
+           card may  not  be  located  at  these addresses.  These are just
+           examples.
+
+  Q: The startup screen says my SoundBlaster  is  detected,  but  I have no
+     sound.
+  A: You  may  have an original Version 1.0 Soundblaster.   These  original
+     cards do  not  support  the  Auto-Initialize command 1Ch.  If you have
+     this type  of card, you will not  be  able  to  have  music  or  sound
+     effects.  Remove the BLASTER environment setting to turn off sound.
+
+
+5.0 CREDITS:
+
+     Code & Graphics By: John McCarthy
+           MOD Music By: Karsten Koch
+           SETUP.EXE By: Robin Ward
+
+
+
+                                  That's All
+                                  ----------
+
+                     We hope you enjoy playing OUTER RIDGE
+                     -------------------------------------
+
