@@ -1,0 +1,26 @@
+B6:
+   db 000h,000h,09dh,0d9h,0d9h,0d9h,096h,000h
+   db 000h,000h,0c4h,0e5h,0ddh,0ddh,077h,000h
+   db 000h,000h,0dbh,0e2h,0ddh,0c7h,000h,000h
+   db 000h,077h,0efh,0e2h,0ddh,0a7h,000h,000h
+   db 000h,0aah,0e5h,0ddh,0ddh,083h,000h,000h
+   db 000h,0c4h,0ddh,0ddh,0d5h,000h,000h,000h
+   db 000h,0c7h,0ddh,0ddh,0b2h,000h,000h,000h
+   db 000h,0d9h,0ddh,0ddh,09fh,000h,000h,000h
+   db 083h,0ddh,0ddh,0ddh,0c1h,0b2h,000h,000h
+   db 0aah,0ddh,0ddh,0ddh,0ddh,0ddh,0b2h,000h
+   db 0c4h,0ddh,0ddh,0ddh,0e2h,0e2h,0dbh,077h
+   db 0d8h,0ddh,0ddh,0ddh,0e2h,0e5h,0e2h,0aah
+   db 0ech,0e5h,0ddh,0dbh,0dbh,0e5h,0e5h,0c7h
+   db 0f2h,0e5h,0ddh,0aah,0b2h,0e5h,0e5h,0dbh
+   db 0fbh,0e5h,0ddh,077h,096h,0e5h,0e9h,0e5h
+   db 0f6h,0e5h,0ddh,077h,083h,0e5h,0e9h,0e9h
+   db 0efh,0e2h,0ddh,077h,077h,0e5h,0e9h,0efh
+   db 0e2h,0ddh,0d5h,077h,096h,0e2h,0e9h,0e9h
+   db 0ddh,0ddh,0ddh,0aah,0b2h,0e2h,0e5h,0dbh
+   db 0beh,0ddh,0ddh,0e5h,0e5h,0e2h,0e5h,0d0h
+   db 0c1h,0ddh,0e5h,0e9h,0efh,0e5h,0e5h,0bdh
+   db 093h,0ddh,0e5h,0efh,0efh,0e5h,0dbh,066h
+   db 029h,0c7h,0e5h,0e9h,0efh,0e9h,0a7h,000h
+   db 000h,058h,0dbh,0e9h,0e9h,0d0h,000h,000h
+   db 000h,000h,000h,093h,066h,000h,000h,000h

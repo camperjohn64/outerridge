@@ -1,0 +1,53 @@
+
+  extrn _shot:byte
+  extrn _guntype:byte
+  extrn _stimer:byte
+  extrn _restart:byte
+  extrn _handle_shot:near
+  extrn _handle_shot_irq:near
+  extrn _select_new_gun:near
+  extrn _config_joystick:near
+  extrn _config_mouse:near
+  extrn _config_keyboard:near
+  extrn _reset_mouse:near
+  extrn _handle_always_keys:near
+  extrn _shot_collision:near
+  extrn _start_gunshot:near
+  extrn _reset_dummy:near
+  extrn _dummy_control:near
+  extrn _select_middle:near
+  extrn _sspeedtable:byte
+  extrn _menu_item:byte
+  extrn _gameoversay:word
+  extrn _start_demo:near
+
+  extrn _kbtype:dword
+  extrn _joytype:dword
+  extrn _explo:dword
+  extrn _gungot:byte
+  extrn _nextgun:byte
+  extrn _firebutton:near
+  extrn _changing:byte
+  extrn _thrust:byte
+  extrn _shots_left:word
+  extrn _max_ammo:word
+  extrn _gun3pow:byte
+  extrn _gunspow:byte
+  extrn _inpause:byte
+  extrn _gunsped:dword
+  extrn _gunlen:byte
+  extrn _gunmap:byte
+  extrn _gunsound:byte
+  extrn _gs_who:byte
+  extrn _in_transit:near
+  extrn _dummy_timer:dword
+  extrn _joy_up:byte
+  extrn _joy_dn:byte
+  extrn _joy_bt:byte
+  extrn _joy_on:byte
+  extrn _joy_rt:byte
+  extrn _joy_lf:byte
+  extrn _joy_es:byte
+  extrn maxmov:dword
+
+

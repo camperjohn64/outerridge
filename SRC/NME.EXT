@@ -1,0 +1,14 @@
+
+   extrn _shoot_from:near
+   extrn _add_nme:near
+   extrn _timerx:byte
+   extrn _obj_num:dword
+   extrn _add_mine:near
+   extrn _nmes:dword
+   extrn _who_hurt:byte
+   extrn _nmetype:byte
+   extrn _nme_irq:near
+   extrn _reset_nme:near
+   extrn _get_random_shoot_angle:near
+
+

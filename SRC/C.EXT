@@ -1,0 +1,30 @@
+
+     extrn _mode:byte
+     extrn _mode_handler:near
+     extrn _retrig_volumes:near
+     extrn _next_level_please:near
+     extrn _retrig_level:near
+     extrn _start_game:near
+     extrn _stop_game:near
+     extrn _reset_blue:near
+     extrn _wipe_field:near
+     extrn _menu_pause:near
+     extrn _check_score:near
+     extrn _hscore:dword
+     extrn _cursorx:dword
+     extrn _under:byte
+     extrn _chrtime:byte
+     extrn _level_tables:byte
+     extrn _level_end:byte
+     extrn _diff_index:byte
+
+     extrn _menu_icons:near
+     extrn _menu_things:dword
+     extrn _main_index:byte
+     extrn _options_index:byte
+     extrn _edit_index:byte
+
+     extrn _handle_rotating_menu_icon:near
+     extrn _reset_language:near
+
+
