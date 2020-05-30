@@ -1,0 +1,10 @@
+
+  extrn _game_intro:near
+  extrn _tile_gif:near
+  extrn _write_text:near
+  extrn _fancy_fade1:near
+  extrn _fancy_fade2:near
+  extrn _sub:near
+  extrn _ouch:byte
+
+
