@@ -1,0 +1,107 @@
+        .386p
+code32  segment para public use32
+start:
+
+xx = 64
+yy = 64
+
+dw xx,yy
+include gif\tas50000.inc
+dw xx,yy
+include gif\tas50001.inc
+dw xx,yy
+include gif\tas50002.inc
+dw xx,yy
+include gif\tas50003.inc
+dw xx,yy
+include gif\tas50004.inc
+dw xx,yy
+include gif\tas50005.inc
+dw xx,yy
+include gif\tas50006.inc
+dw xx,yy
+include gif\tas50007.inc
+dw xx,yy
+include gif\tas50008.inc
+dw xx,yy
+include gif\tas50009.inc
+dw xx,yy
+include gif\tas50010.inc
+dw xx,yy
+include gif\tas50011.inc
+dw xx,yy
+include gif\tas50012.inc
+dw xx,yy
+include gif\tas50013.inc
+dw xx,yy
+include gif\tas50014.inc
+dw xx,yy
+include gif\tas50015.inc
+dw xx,yy
+include gif\tas50016.inc
+dw xx,yy
+include gif\tas50017.inc
+dw xx,yy
+include gif\tas50018.inc
+dw xx,yy
+include gif\tas50019.inc
+dw xx,yy
+include gif\tas50020.inc
+dw xx,yy
+include gif\tas50021.inc
+dw xx,yy
+include gif\tas50022.inc
+dw xx,yy
+include gif\tas50023.inc
+dw xx,yy
+include gif\tas50024.inc
+dw xx,yy
+include gif\tas50025.inc
+dw xx,yy
+include gif\tas50026.inc
+dw xx,yy
+include gif\tas50027.inc
+dw xx,yy
+include gif\tas50028.inc
+dw xx,yy
+include gif\tas50029.inc
+dw xx,yy
+include gif\tas50030.inc
+dw xx,yy
+include gif\tas50031.inc
+dw xx,yy
+include gif\tas50032.inc
+dw xx,yy
+include gif\tas50033.inc
+dw xx,yy
+include gif\tas50034.inc
+dw xx,yy
+include gif\tas50035.inc
+dw xx,yy
+include gif\tas50036.inc
+dw xx,yy
+include gif\tas50037.inc
+dw xx,yy
+include gif\tas50038.inc
+dw xx,yy
+include gif\tas50039.inc
+dw xx,yy
+include gif\tas50040.inc
+dw xx,yy
+include gif\tas50041.inc
+dw xx,yy
+include gif\tas50042.inc
+dw xx,yy
+include gif\tas50043.inc
+dw xx,yy
+include gif\tas50044.inc
+dw xx,yy
+include gif\tas50045.inc
+dw xx,yy
+include gif\tas50046.inc
+dw xx,yy
+include gif\tas50047.inc
+
+code32  ends
+        end start
+
