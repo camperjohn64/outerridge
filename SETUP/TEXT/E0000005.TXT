@@ -1,0 +1,11 @@
+±±±±±±±±±±±±±±ÀÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿Ù±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Mouse Button Configuration                    ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Shoot                           Left Button   ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Thrust                          Right Button  ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Cycle Weapons                   Middle Button ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±
+  Use the Right / Left Cursor Keys to Change which Button Shoots
+  Use the Right / Left Cursor Keys to Change which Button Thrusts
+  Use the Right / Left Cursor Keys to Change which Button Cycles Weapons
+

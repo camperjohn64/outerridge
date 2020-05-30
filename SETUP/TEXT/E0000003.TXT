@@ -1,0 +1,13 @@
+±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Configure Controller                     ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Keyboard                                 ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Mouse                                    ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Joystick                                 ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Speed / Rotation Method / Thrust Method  ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±±±
+  Configure Keyboard Control
+  Configure Mouse Control
+  Configure Joystick Control
+  Configure Controller Speeds / Rotation Method / Thrust Method
+

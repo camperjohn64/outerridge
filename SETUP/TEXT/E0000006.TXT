@@ -1,0 +1,11 @@
+±±±±±±±±±±±±±±ÀÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿Ù±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Joystick Button Configuration                 ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Shoot                           Button 1      ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Thrust                          Button 2      ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Cycle Weapons                   Button 3      ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±
+  Use the Right / Left Cursor Keys to Change which Button Shoots
+  Use the Right / Left Cursor Keys to Change which Button Thrusts
+  Use the Right / Left Cursor Keys to Change which Button Cycles Weapons
+

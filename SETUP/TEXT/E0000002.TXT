@@ -1,0 +1,11 @@
+±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Configure Controller Type                ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³  Keyboard Only                           ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³  Keyboard + Mouse                        ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³  Keyboard + Joystick                     ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±±±
+  Keyboard Control Only
+  Keyboard and Mouse Control
+  Keyboard and Joystick Control
+

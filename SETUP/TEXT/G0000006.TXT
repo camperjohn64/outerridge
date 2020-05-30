@@ -1,0 +1,10 @@
+±±±±±±±±±±±±±±ÀÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿Ù±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Joystick Knopf Konfiguration                  ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Schuá                           Knopf 1       ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Schub                           Knopf 2       ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ n„chste Waffe                   Knopf 3       ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±
+  W„hle mit Pfeil rechts/links aus welcher Knopf schieát.
+  W„hle mit Pfeil rechts/links aus welcher Knopf den Schub steuert.
+  W„hle mit Pfeil rechts/links aus welcher Knopf die n„chste Waffe l„d.

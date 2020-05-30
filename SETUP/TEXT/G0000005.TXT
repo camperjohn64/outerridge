@@ -1,0 +1,10 @@
+±±±±±±±±±±±±±±ÀÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿Ù±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Maus Knopf Konfiguration                      ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Schuá                        linker Knopf     ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Schub                        rechter Knopf    ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ n„chste Waffe                mittlerer Knopf  ³ ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±
+  W„hle mit Pfeil rechts/links aus welcher Knopf schieát.
+  W„hle mit Pfeil rechts/links aus welcher Knopf den Schub steuert.
+  W„hle mit Pfeil rechts/links aus welcher Knopf die n„chste Waffe l„d.

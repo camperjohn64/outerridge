@@ -1,0 +1,16 @@
+±±±±±±±±±±±±±±ÃÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³³ Tastatur Konfiguration                         ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³³ Drehung nach OBEN                    HOCH      ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±À³ Drehung nach UNTEN                   RUNTER    ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Drehung nach LINKS                   LINKS     ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Drehung nach RECHTS                  RECHTS    ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³                                                ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Schub vorw„rts                       STRG      ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Feuere Waffe                         LEERTST   ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ N„chste Waffe                        RETURN    ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³                                                ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ ESC = Abbruch                  RETURN = „ndern ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±
+  Drcke <RETURN> oder Pfeil rechts/links fr neue Taste

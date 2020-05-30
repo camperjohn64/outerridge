@@ -1,0 +1,9 @@
+±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Configure Sound Volume                   ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Set Music Volume (0-15)               7  ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Set Sound Effects Volume (0-15)       10 ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±±±
+  Use the Right / Left Arrow Keys to Change the Music Volume
+  Use the Right / Left Arrow Keys to Change the Sound FX Volume
+

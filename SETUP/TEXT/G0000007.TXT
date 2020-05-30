@@ -1,0 +1,10 @@
+±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Kontroller Optionen                      ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Kontroller Geschwind. %         100      ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Drehart                         Normal   ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Schub                           Griffig  ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±±±
+  Benutze Pfeil rechts/links um die Kontroller Geschwindigkeit zu „ndern
+  Benutze Pfeil rechts/links um die Drehart zu „ndern
+  Benutze Pfeil rechts/links um die Schubart zu „ndern

@@ -1,0 +1,17 @@
+±±±±±±±±±±±±±±ÃÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³³ Keyboard Configuration                         ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³³ Rotate Upwards                       UP        ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±À³ Rotate Downwards                     DOWN      ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Rotate Left                          LEFT      ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Rotate Right                         RIGHT     ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³                                                ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Thrust Forwards                      CONTROL   ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Fire Weapon                          SPACE     ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ Cycle Weapons                        ENTER     ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³                                                ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±³ ESC = Abort                     ENTER = Change ³ ±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±
+  Press <ENTER> or the Right / Left Arrow keys To Choose a new Key
+

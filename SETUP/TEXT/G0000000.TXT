@@ -1,0 +1,30 @@
+ Setup ver 1.0                                           (C) 1994 by Robin Ward
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³ Aktuelle Konfiguration:                         ³±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³ Eingabeger„t    : Tastatur + Maus               ³±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³ Schub           : Griffig / Gleiten             ³±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±³ Drehart         : Normal / Umgekehrt            ³±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³               Hauptmen                ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ Musik Lautst„rke „ndern                ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ Eingabeger„t „ndern                    ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ Eingabeger„t konfigurieren             ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ SETUP speichern & OUTER RIDGE starten  ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ SETUP speichern & Ende                 ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ Ende ohne speichern                    ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±³ ESC = Abbruch         RETURN = Auswahl ³±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+  Change the Current Volume Settings
+  Select Controller Type  ( Mouse / Joystick / Keyboard )
+  Configure ( Mouse / Joystick / Keyboard )
+  Save the Currently Selected Settings and Play OUTER RIDGE!!
+  Save the Currently Selected Settings and Exit Setup
+  Exit Setup Without Saving any Selected Options

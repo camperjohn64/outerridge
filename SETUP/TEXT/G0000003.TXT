@@ -1,0 +1,12 @@
+±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Kontroller Konfigurieren                 ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Tastatur                                 ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Maus                                     ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Joystick                                 ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Geschwindigkeit / Drehart / Schub        ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±±±
+  Konfiguriere die Tastatursteuerung
+  Konfiguriere die Maussteuerung
+  Konfiguriere die Joysticksteuerung
+  Konfiguriere die Geschwindigkeit / die Drehart / den Schub

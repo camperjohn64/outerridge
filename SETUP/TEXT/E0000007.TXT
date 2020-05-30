@@ -1,0 +1,11 @@
+±±±±±±±±±±±±±±±±±±ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿±±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Controller Options                       ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Controller Speed %              100      ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Rotation Method                 Normal   ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±³ Thrust Method                   Gripping ³ ±±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ±±±±±±±±±±±±±±±±±
+  Use the Right / Left Arrow Keys to Change the Controller speed (in percent)
+  Use the Right / Left Arrow Keys to Change the Rotation Method
+  Use the Right / Left Arrow Keys to Change the Thrust Method
+
